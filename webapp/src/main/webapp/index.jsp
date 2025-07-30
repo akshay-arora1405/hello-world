@@ -68,11 +68,12 @@ span.psw {
 </head>
 <body>
 
-<h2>Login Form</h2>
+<h2>Welcome, Login to My Website</h2>
 
 <form action="/action_page.php" method="post">
   <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+    <img src="https://cdn-icons-png.flaticon.com/512/295/295128.png" alt="Avatar" class="avatar">
+    
   </div>
 
   <div class="container">
