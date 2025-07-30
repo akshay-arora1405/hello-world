@@ -72,7 +72,7 @@ span.psw {
 
 <form action="/action_page.php" method="post">
   <div class="imgcontainer">
-    <img src="https://cdn-icons-png.flaticon.com/512/295/295128.png" alt="Avatar" class="avatar">
+    <img src="https://png.pngtree.com/png-clipart/20220119/ourmid/pngtree-purple-stereo-texture-login-button-png-image_4237632.png" alt="Avatar" class="avatar">
     
   </div>
 
