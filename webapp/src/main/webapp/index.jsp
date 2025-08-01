@@ -196,7 +196,7 @@ form .gender{
 
 <div class="container">
         <div class="title">
-            <p>Registration</p>
+            <p>User Registration</p>
         </div>
 
         <form action="#">
