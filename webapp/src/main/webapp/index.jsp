@@ -196,13 +196,13 @@ form .gender{
 
 <div class="container">
         <div class="title">
-            <p>User Registrations</p>
+            <p>New User Registrations</p>
         </div>
 
         <form action="#">
             <div class="user_details">
                 <div class="input_box">
-                    <label for="name">Full Name</label>
+                    <label for="name">Full-Name</label>
                     <input type="text" id="name" placeholder="Enter your name" required>
                 </div>
                 <div class="input_box">
